@@ -3,6 +3,7 @@
  * Please analyze this code and answer the questions in Questions.java
  */
 
+
 public class Vehicle {
     int currentSpeed;
     String make;
